@@ -8,3 +8,5 @@ function scuberGreetingForFeet(num) {
     return "No can do.";
   }
 }
+
+let scuberGreetingForFeet
