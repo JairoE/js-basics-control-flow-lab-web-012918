@@ -9,4 +9,4 @@ function scuberGreetingForFeet(num) {
   }
 }
 
-let scuberGreetingForFeet
+let scuberGreetingForFeet;
